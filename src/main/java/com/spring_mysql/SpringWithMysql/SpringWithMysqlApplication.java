@@ -8,6 +8,7 @@ public class SpringWithMysqlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringWithMysqlApplication.class, args);
+        System.out.println("Server started...");
 	}
 
 }
